@@ -1,6 +1,6 @@
 # Adversarial Attacks on MNIST CNN
 
-This project implements three white-box adversarial attack methods against a CNN trained on MNIST handwritten digits.
+This project implements three adversarial attack methods against a CNN trained on MNIST handwritten digits.
 
 ## Model
 
