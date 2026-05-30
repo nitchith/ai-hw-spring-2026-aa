@@ -20,7 +20,7 @@ Iterative version of FGSM with smaller step size, projecting back into the epsil
 
 ### 3. MI-FGSM (Momentum Iterative FGSM)
 
-Adds momentum accumulation across iterations to stabilize gradient direction (Dong et al., 2018). Similar white-box attack strength to PGD, but produces more transferable adversarial examples across models.
+Adds momentum accumulation across iterations to stabilize gradient direction . Similar white-box attack strength to PGD, but produces more transferable adversarial examples across models.
 
 ## Results
 
